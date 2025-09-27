@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+content/__ExternalActors__
+content/__ExternalObjects__
